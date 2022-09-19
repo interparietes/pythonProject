@@ -87,6 +87,9 @@ print(li)
 for el in li:
     print(el)
     print(type(el))
+
+
+
 print("*" * 40)
 a = "Exercise 2\n "
 print(a)
